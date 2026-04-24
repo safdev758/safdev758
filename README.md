@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+System+Architect;NestJS+%7C+Angular+%7C+React+Native+%7C+KMP;Microservices+%7C+Real-time+Systems+%7C+Distributed+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+%26+Cross-platform+Engineer;NestJS+%7C+Angular+%7C+React+Native+%7C+KMP;Microservices+%7C+Real-time+Systems+%7C+Distributed+Systems"/>
 </p>
 
 ---
@@ -13,8 +13,9 @@
 ## 🧠 About Me
 
 ```yaml
-role: Backend + Cross-platform Engineer
+role: Fullstack + Cross-platform Engineer
 focus: Scalable systems, real-time applications, distributed architecture
+stack: NestJS · Angular · React Native · Kotlin Multiplatform
 mindset: Systems first, features second
 ```
 
